@@ -1,0 +1,101 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "question": "The 'function' and ' var' are known as:",
+      "answers": ["Keywords", "Datatypes", "Declaration Statement", "Prototype"],
+      "correctIndex": 2
+    },
+    {
+      "number": 2,
+      "question": "Which of the following variables takes precedence over the others if the names are the same?",
+      "answers": ["Global Variable", "Local Variable", "Two of the above", "None of the above"],
+      "correctIndex": 1
+    },
+    {
+      "number": 3,
+      "question": "Which of the following type of a variable is volatile?",
+      "answers": [
+        "Mutuable",
+        "Dynamic",
+        "Voaltile",
+        "Immutable"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "number": 4,
+      "question": "When there is an indefinite or an infinite value during an arithmetic computation in a program, then JavaScript prints",
+      "answers": ["exception error", "overflow error", "Display Infinity", "None of the above"],
+      "correctIndex": 2
+    },
+    {
+      "number": 5,
+      "question": "Whats got logged ? const arr = [x => x * 1, x => x * 2, x => x * 3, x => x * 4]console.log(arr.reduce((agg, el) => agg + el(agg), 1)); ",
+      "answers": [
+        "150",
+        "120",
+        "80",
+        "100"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "number": 6,
+      "question": "random6",
+      "answers": ["ans1","ans2","ans3","ans4"],
+      "correctIndex": 2
+    },
+    {
+      "number": 7,
+      "question": "random7",
+      "answers": [
+        "ans1",
+        "ans2",
+        "ans3",
+        "ans4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "number": 8,
+      "question": "random8",
+      "answers": [
+        "ans1",
+        "ans2",
+        "ans3",
+        "ans4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "number": 9,
+      "question": "random9",
+      "answers": ["ans1","ans2","ans3","ans4"],
+      "correctIndex": 2
+    },
+    {
+      "number": 10,
+      "question": "Which of the following is not a reserved word in JavaScript?",
+      "answers": [
+        "Interface",
+        "Throws",
+        "Program",
+        "Short"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "number": 11,
+      "question": "random11",
+      "answers": ["ans1","ans2","ans3","ans4"],
+      "correctIndex": 1
+    },
+    {
+      "number": 12,
+      "question": "In JavaScript, we do not have datatypes like integer and float. What is the function that can be used to check if the number is an integer or not?",
+      "answers": ["ifInteger(value)", "Integer(value)"," isInteger(value)", "None of the above"],
+      "correctIndex": 2
+    }
+  ]
+}
